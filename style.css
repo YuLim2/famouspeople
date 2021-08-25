@@ -1,0 +1,31 @@
+
+    a {
+        color: darkred;
+        text-decoration: none;
+    }
+    h1 {
+        font-size: 45px;
+        text-align: center;
+        border-bottom: 3px solid sienna;
+        margin: 0;
+        padding: 25px;
+    }
+    h4 {
+        font-size: 35px;
+    }
+    h3{
+        font-size: 20px;
+        text-align: center;
+        border: 3px solid black;
+        padding: 20px; 
+    }
+    ol{
+        border-right: 3px solid sienna;
+        width: 200px;
+        margin: 0;
+        padding: 20px;
+    }
+    #grid{
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+    }
