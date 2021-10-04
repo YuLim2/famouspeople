@@ -1,12 +1,12 @@
 
     a {
-        color: darkred;
+        color: blue;
         text-decoration: none;
     }
     h1 {
         font-size: 45px;
         text-align: center;
-        border-bottom: 3px solid sienna;
+        border-bottom: 3px solid blue;
         margin: 0;
         padding: 25px;
     }
@@ -20,7 +20,7 @@
         padding: 20px; 
     }
     ol{
-        border-right: 3px solid sienna;
+        border-right: 3px solid blue;
         width: 200px;
         margin: 0;
         padding: 20px;
